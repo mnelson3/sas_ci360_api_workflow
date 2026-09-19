@@ -2,6 +2,8 @@
 
 ## SAS 360 API WORKFLOW LIBRARY
 
+> **Status: superseded.** This library has been replaced by [`sas-ci360-sol-workflow`](https://github.com/mnelson3/sas-ci360-sol-workflow) — the same Workflow API, rebuilt with mockable unit tests, typed exceptions, and safer configuration defaults. This repo is kept for historical reference; start new work in `sas-ci360-sol-workflow` instead.
+
 ### Overview
 
 The Workflow API enables you to access and manage workflow resources such as workflow processes, workflow tasks, approvals, assignments, and attachments in SAS Customer Intelligence 360. Workflows enable an organization to automate processes and save time. Automated workflows are used to manage assignments and provide real-time visibility into project timelines. Workflows contain workflow tasks, which are assigned to contributors (users or groups) who complete the tasks.
