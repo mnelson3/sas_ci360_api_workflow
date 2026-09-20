@@ -2,7 +2,7 @@
 
 ## SAS 360 API WORKFLOW LIBRARY
 
-> **Status: superseded.** This library has been replaced by [`sas-ci360-sol-workflow`](https://github.com/mnelson3/sas-ci360-sol-workflow) — the same Workflow API, rebuilt with mockable unit tests, typed exceptions, and safer configuration defaults. This repo is kept for historical reference; start new work in `sas-ci360-sol-workflow` instead.
+> **Status: superseded.** This library has been replaced by [`sas-ci360-sol-workflow`](https://github.com/mnelson3/sas-ci360-sol-workflow) — the same Workflow API, rebuilt with mockable unit tests, typed exceptions, and safer configuration defaults. This repo is kept for historical reference; start new work in `sas-ci360-sol-workflow` instead. This repo's final implementation is frozen at the `archive/superseded` branch.
 
 ### Overview
 
